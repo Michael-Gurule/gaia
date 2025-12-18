@@ -176,6 +176,6 @@ MIT License
 ## Author
 
 # Michael Gurule 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@michael-gurule](https://github.com/michael-gurule)
+- LinkedIn: [MichaelGurule](https://linkedin.com/in/michael-j-gurule)
 - Email: michaelgurule1164@gmail.com
