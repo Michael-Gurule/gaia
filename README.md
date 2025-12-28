@@ -150,7 +150,6 @@ streamlit run dashboard/app.py
 - Multi-tab detailed analysis
 - Quick location presets
 
-
 ### Future Improvements
 
 - [ ] FEMA flood zone integration
