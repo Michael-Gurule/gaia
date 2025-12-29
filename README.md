@@ -1,6 +1,11 @@
-#  Natural Disaster Risk Intelligence Platform
 
-**Real-Time Multi-Hazard Risk Assessment for Real Estate Portfolios**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6927d353-19c2-4841-b34f-2949e5a8264a" alt="Alt text description">
+<p align="center">
+  <strong>Natural Disaster Risk Intelligence Platform</strong><br>
+  Real-Time Multi-Hazard Risk Assessment for Real Estate Portfolios
+</p>  
+<br>
 
 A production-grade data pipeline that ingests real-time data from government APIs (USGS, NASA, NOAA) to assess natural disaster risk across earthquakes, wildfires, and severe weather.
 
@@ -9,7 +14,7 @@ A production-grade data pipeline that ingests real-time data from government API
 
 ##  Business Problem
 
-Real estate investors and insurance companies need comprehensive risk assessment across multiple natural hazards to make informed decisions and comply with SEC climate disclosure rules.
+Real estate investors and Insurance companies need comprehensive risk assessment across multiple natural hazards to make informed decisions and comply with SEC climate disclosure rules.
 
 ###  Solution
 
@@ -159,22 +164,59 @@ streamlit run dashboard/app.py
 - [ ] Docker containerization
 - [ ] AWS deployment
 
+---
 
-##  Screenshots
+##  Dashboard
 
-1. Dashboard overview showing composite risk score
-2. Earthquake data visualization
-3. Wildfire detection map
-4. Weather alerts display
-5. API interactive documentation
+<p align="center">
+<img width="1463" height="723" alt="Screenshot 2025-12-16 at 8 36 43 PM" src="https://github.com/user-attachments/assets/b569ea22-6901-4921-840b-e8e30dc2523d" />
+Dashboard overview showing composite risk score
+</p> 
+<br>
 
+<p align="center">
+<img width="1168" height="570" alt="Screenshot 2025-12-16 at 8 37 56 PM" src="https://github.com/user-attachments/assets/9f60a12a-80b3-49bf-a89d-6d549dcfe0d2" />
+ Earthquake data visualization
+</p> 
+<br>
+  
+<p align="center">
+<img width="1175" height="682" alt="Screenshot 2025-12-16 at 8 38 17 PM" src="https://github.com/user-attachments/assets/17f7d1c7-334b-4b27-95df-f75438e3683e" />
+Wildfire detection map
+</p> 
+<br>
+
+<p align="center">
+<img width="1477" height="782" alt="Screenshot 2025-12-16 at 8 38 55 PM" src="https://github.com/user-attachments/assets/730aafa6-eead-4569-957f-1ae70529de2b" /> 
+Weather alerts display
+</p> 
+<br>
+
+<p align="center">
+<img width="1489" height="819" alt="Screenshot 2025-12-16 at 8 35 09 PM" src="https://github.com/user-attachments/assets/1da90e08-2a96-4cd8-bf34-61938b87fd0e" />
+API interactive documentation
+</p> 
+<br>
+
+---
 ##  License
 
 MIT License
 
-## Author
+## Contributing
 
-# Michael Gurule 
-- GitHub: [@michael-gurule](https://github.com/michael-gurule)
-- LinkedIn: [MichaelGurule](https://linkedin.com/in/michael-j-gurule)
-- Email: michaelgurule1164@gmail.com
+This is a portfolio project. For questions or collaboration:
+
+**Michael Gurule**
+
+- [![Email Me](https://img.shields.io/badge/EMAIL-8A2BE2)](michaelgurule1164@gmail.com)
+- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/michael-j-gurule-447aa2134)
+- [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@michaelgurule1164)
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d1d1a864-0669-41d9-afbe-c54a98d16707" alt="CONSTELLATION" width="40">
+  <br>
+  <sub>Built by Michael Gurule | Data: NASA USGS NOAA (Public)</sub>
+</p>
